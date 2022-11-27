@@ -1,13 +1,13 @@
 {
-  "name": "expo-svg-uri",
-  "version": "1.3.1",
+  "name": "expo-svg-uri-vtbl",
+  "version": "1.3.2",
   "description": "Render an SVG Image",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thongdn-it/expo-svg-uri.git"
+    "url": "git+https://github.com/cdgmx/expo-svg-uri.git"
   },
-  "homepage": "https://github.com/thongdn-it/expo-svg-uri#readme",
+  "homepage": "https://github.com/cdgmx/expo-svg-uri#readme",
   "keywords": [
     "expo",
     "svg",
@@ -15,13 +15,13 @@
     "uri"
   ],
   "author": {
-    "name": "Thong Dang",
-    "email": "thongdn.it@gmail.com",
-    "url": "https://github.com/thongdn-it"
+    "name": "cdgmx",
+    "email": "mailchristianmontalban@gmail.com",
+    "url": "https://github.com/cdgmx"
   },
   "license": "MIT",
   "dependencies": {
-    "xmldom": "^0.3.0",
-    "react-native-svg": "^12.1.0"
+    "react-native-svg": "^13.6.0",
+    "xmldom": "^0.3.0"
   }
 }
